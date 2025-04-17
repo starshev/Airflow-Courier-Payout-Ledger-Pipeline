@@ -6,7 +6,7 @@ Build an end-to-end pipeline from scratch for daily incremental data load from a
 ### Skills  
 ETL pipeline development using Airflow, API requests, incremental data loading, data integration into PostgreSQL-based DWH, data mart modeling and SQL scripting, writing functional Python modules, DAG creation with Python decorator and PostgresOperator, DAG execution testing, solution documentation.
 
-## Пайплайн учёта выплат курьерам с использованием Airflow
+## Пайплайн расчета ежемесячных выплат курьерам с использованием Airflow
 
 ### Задача  
 Построить с нуля end-to-end пайплайн по ежедневной инкрементальной загрузке данных из службы доставки по API. Интегрировать данные в DWH на базе PostgreSQL и построить витрину данных с расчетом ежемесячных выплат курьерам согласно предоставленной схеме.
